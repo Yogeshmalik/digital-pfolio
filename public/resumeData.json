@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name": "Yogesh Singh Malik",
+    "occupation": "Frontend Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Yogesh! You might also know me as faujibryant. I have not just evolved my technical skills but have worked on my other skills also. I've always learnt things by creating them on my own. Coming from an army background, I've been raised in a disciplined environment that has nurtured me and made me a person of values over anything else. I am a skilled Frontend Developer with a special interest in React.js. With a Bachelor of Engineering in Information Technology from the Army Institute of Technology, I have a strong foundation in software development and programming. I am well-versed in React.js, HTML, CSS, JavaScript, Redux, Material UI, Bootstrap, Enzyme, Jest, Git, SQL, Tableau, Photoshop, VS Code, and Linux. I've experience working as a Business Development Executive, where I've gained expertise in Excel, Business opportunities, Marketing literature, Sales, Revenue, and Invoices. I've also worked in B2B and B2C environment and has proficiency in Tableau and Sales. In addition to my professional experience, I've made significant contributions in various extracurricular activities, including basketball, photography, traveling, cycling, and music. I've represented Delhi South West zone at Senior Delhi state championship in Basketball, Netball and Korfball and has played various sports like squash, volleyball, table tennis, and cricket etc. I was also awarded the Best Sports Person: Overall Performance at Army Institute of Technology. I am a dedicated and disciplined team player with excellent leadership skills. I've volunteered for various social causes, including helping visually impaired candidates in their exams and organizing sports and cultural fests. I believe in all round development and managing time for everything and hence had been an active member of different clubs in college. Being a sportsman, I understand the value of team-spirit and is never discouraged by failure but is always eager to learn more every day.",
+    "contactmessage": "Get in touch with me",
+    "email": "ysmworking@gmail.com",
+    "phone": "+91 7875884327",
+    "address": {
+      "street": "",
+      "city": "New Delhi",
+      "state": "India",
+      "zip": "1100XX"
+    },
+    "website": "https://codesandbox.io/u/yogeshmalik",
+    "resumedownload": "https://www.dropbox.com/s/8eeq9pqgc8elnke/Yogesh%20Malik%20-%20Frontend%20Developer.pdf?dl=0",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/Yogeshmalik",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ysmworking/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/@FaujiBryant",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Yogijat/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/yo8esh/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "SKILLS AND TOOLS I KNOW",
+    "education": [
+      {
+        "school": "Army Institute Of Technology - Pune University",
+        "university": "PU",
+        "degree": "Bachelor of Engineering -  Information Technology",
+        "major": "Information Technology",
+        "description": "Graduated with First Class with Distinction"
+      },
+      {
+        "school": "Army Public School Delhi Cantt",
+        "degree": "Higher Secondary School",
+        "graduated": "",
+        "description": "Physics, Chemistry, Maths"
+      }
+    ],
+    "work": [
+      {
+        "company": "Capital Business Systems Private Limited and Togedr",
+        "title": "BDE",
+        "years": "",
+        "description": "Experience working as a Business Development Executive, where I gained expertise in Excel, Business opportunities, Marketing literature, Sales, Revenue, and Invoices. I've also worked in B2B and B2C environment and has proficiency in Tableau and Sales. If you know of any job openings in your company or network that may be a good fit for me, please let me know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "79%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS3",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript"
+      },
+      {
+        "name": "Bootstrap"
+      },
+      {
+        "name": "Material UI"
+      },
+      {
+        "name": "Tableau"
+      },
+      {
+        "name": "Web Development"
+      },
+      {
+        "name": "Responsive Web Design"
+      },
+      {
+        "name": "Photoshop"
+      },
+      {
+        "name": "Git"
+      },
+      {
+        "name": "VS Code"
+      },
+      {
+        "name": "Jest"
+      },
+      {
+        "name": "Enzyme"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Feed Clone",
+        "category": "",
+        "image": "netflix-fee-clone.jpg",
+        "url": "https://netflix-clone-ysm.web.app/"
+      },
+      {
+        "title": "Facebook Login",
+        "category": "",
+        "image": "facebook-login.jpg",
+        "url": "https://codepen.io/yogeshmalik/full/NWwwYjy"
+      },
+      {
+        "title": "Meme Generator",
+        "category": "",
+        "image": "meme.jpg",
+        "url": "https://codepen.io/yogeshmalik/full/rNvrKRY"
+      }
+    ]
+  }
+}
